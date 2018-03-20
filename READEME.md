@@ -1,0 +1,1 @@
+This is an app created following a Lynda.com course.
